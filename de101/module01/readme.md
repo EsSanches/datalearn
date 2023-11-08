@@ -30,7 +30,7 @@ Dashboard с основными метриками, два графика общ
 ![Image alt](https://github.com/EsSanches/datalearn/blob/main/de101/module01/отчет%20BI_1.png)
 
 
-Dashboard с продажами по регионам, графиком продаж по штатам и круговая диаграмма продаж и прибыли по региональным менеджерам. Ссылка на dashboard
+Dashboard с продажами по регионам, графиком продаж по штатам и круговая диаграмма продаж и прибыли по региональным менеджерам. Ссылка на [dashboard](https://github.com/EsSanches/datalearn/blob/main/de101/module01/learn%20data1.pbix)
 
 ![Image alt](https://github.com/EsSanches/datalearn/blob/main/de101/module01/отчет%20BI_2.png)
 
