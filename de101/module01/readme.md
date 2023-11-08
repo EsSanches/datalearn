@@ -23,7 +23,7 @@
 
 
 ## Power BI Dashboard
-### Power BI Dashboard с [данными из Superstore.xlsx](https://github.com/EsSanches/datalearn/blob/main/de101/module01/Sample%20-%20Superstore.xlsx)
+### Power BI Dashboard с данными из [Superstore.xlsx](https://github.com/EsSanches/datalearn/blob/main/de101/module01/Sample%20-%20Superstore.xlsx)
 
 
 
