@@ -25,7 +25,7 @@
 ## Power BI Dashboard
 ### Power BI Dashboard с данными из [Superstore.xlsx](https://github.com/EsSanches/datalearn/blob/main/de101/module01/Sample%20-%20Superstore.xlsx)
 
-Dashboard с основными мтриками, два графика общих обЪемов прадаж и прибыли разбитых по месяцам. Две таблицы месячных продаж по категориям и сегменту. Четыре фильтра по клиентам, названию продукта, сегменту и дате. 
+Dashboard с основными метриками, два графика общих обЪемов прадаж и прибыли разбитых по месяцам. Две таблицы месячных продаж по категориям и сегменту. Четыре фильтра по клиентам, названию продукта, сегменту и дате. 
 
 ![Image alt](https://github.com/EsSanches/datalearn/blob/main/de101/module01/отчет%20BI_1.png)
 
