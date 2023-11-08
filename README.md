@@ -23,4 +23,4 @@
 
 
 ## Power BI Dashboard
-### Power BI Dashboard with data from Superstore.xlsx
+### Power BI Dashboard с данными из Superstore.xlsx
