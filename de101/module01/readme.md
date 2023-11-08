@@ -2,7 +2,7 @@
 
 ## Архитектура Аналитического Решения
 
-![Image alt](https://github.com/EsSanches/datalearn/blob/main/Архитектура%20Аналитического%20Решения.png)
+![Image alt](https://github.com/EsSanches/datalearn/blob/main/de101/module01/Архитектура%20Аналитического%20Решения.png)
 
 1. Source Layer (Слой источников данных):
    
