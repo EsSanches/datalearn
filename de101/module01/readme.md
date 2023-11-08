@@ -1,6 +1,6 @@
 # Задание для модуля 1
 
-## Архитектура Аналитического Решения
+## Analytic solution architecrure
 
 ![Image alt](https://github.com/EsSanches/datalearn/blob/main/de101/module01/Архитектура%20Аналитического%20Решения.png)
 
