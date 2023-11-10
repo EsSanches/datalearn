@@ -1,8 +1,8 @@
 # Задание для модуля 1
 
-## Архитектура Аналитического Решения
+## Analytic solution architecrure
 
-![Image alt](https://github.com/EsSanches/datalearn/blob/main/Архитектура%20Аналитического%20Решения.png)
+![Image alt](https://github.com/EsSanches/datalearn/blob/main/de101/module01/Архитектура%20Аналитического%20Решения.png)
 
 1. Source Layer (Слой источников данных):
    
@@ -23,8 +23,15 @@
 
 
 ## Power BI Dashboard
-### Power BI Dashboard с данными из Superstore.xlsx
+### Power BI Dashboard с данными из [Superstore.xlsx](https://github.com/EsSanches/datalearn/blob/main/de101/module01/Sample%20-%20Superstore.xlsx)
+
+Dashboard с основными метриками, два графика общих объемов прадаж и прибыли разбитых по месяцам. Две таблицы месячных продаж по категориям и сегменту. Четыре фильтра по клиентам, названию продукта, сегменту и дате. 
+
+![Image alt](https://github.com/EsSanches/datalearn/blob/main/de101/module01/отчет%20BI_1.png)
 
 
+Dashboard с продажами по регионам, графиком продаж по штатам и круговая диаграмма продаж и прибыли по региональным менеджерам. Ссылка на [dashboard.](https://github.com/EsSanches/datalearn/blob/main/de101/module01/learn%20data1.pbix)
+
+![Image alt](https://github.com/EsSanches/datalearn/blob/main/de101/module01/отчет%20BI_2.png)
 
 
