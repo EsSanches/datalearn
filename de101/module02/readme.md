@@ -13,7 +13,9 @@
 [3. returns.sql](https://github.com/EsSanches/datalearn/blob/main/de101/module02/returns.sql)
 
 
+Запросы к созданным таблицам для ответа на вопросы из 1 модуля
 
+[overview_m_1.sql](https://github.com/EsSanches/datalearn/blob/main/de101/module02/overview_m_1.sql)
 
 ## Нарисовать модель данных в SQLdbm
 
