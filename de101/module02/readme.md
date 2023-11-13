@@ -27,6 +27,16 @@
 
 ## Нарисовать модель данных в SQLdbm
 
+### Задание
+
+1. Вам необходимо нарисовать модель данных для нашего файлика [Superstore](https://github.com/Data-Learn/data-engineering/blob/master/DE-101%20Modules/Module01/DE%20-%20101%20Lab%201.1/Sample%20-%20Superstore.xls):
+
+- Концептуальную
+- Логическую
+- Физическую
+
+  
+
 ## Нарисовать графики в Google Sheets
 
 ## Нарисовать графики в KlipFolio
