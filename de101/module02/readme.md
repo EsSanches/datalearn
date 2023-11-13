@@ -41,7 +41,7 @@
 
 Дляя построения модели использовал [SqlDBM](https://sqldbm.com/), там же создал запросы на создание таблиц [create-new_tables.sql](https://github.com/EsSanches/datalearn/blob/main/de101/module02/create-new_tables.sql)
 
-[diagram.png](https://github.com/EsSanches/datalearn/blob/main/de101/module02/diagram.png)
+![Image alt](https://github.com/EsSanches/datalearn/blob/main/de101/module02/diagram.png)
 
   
 
