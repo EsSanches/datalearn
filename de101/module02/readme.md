@@ -4,6 +4,11 @@
 ## SQL запросы
 
 
+###Задание
+
+Создайте 3 таблицы и загрузите данные из [Superstore Excel файл](https://github.com/Data-Learn/data-engineering/blob/master/DE-101%20Modules/Module01/DE%20-%20101%20Lab%201.1/Sample%20-%20Superstore.xls) в вашу базу данных. Сохраните в вашем GitHub скрипт загрузки данных и создания таблиц.
+
+
 Скрипты для создания таблиц и загрузки данных
 
 [1. orders.sql](https://github.com/EsSanches/datalearn/blob/main/de101/module02/orders.sql)
