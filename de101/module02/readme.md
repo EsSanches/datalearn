@@ -43,6 +43,10 @@
 
 ![Image alt](https://github.com/EsSanches/datalearn/blob/main/de101/module02/diagram.png)
 
+Заполняю созданные таблицы используя ранее загруженную таблицу [orders.sql](https://github.com/EsSanches/datalearn/blob/main/de101/module02/orders.sql)
+
+Во время заполнения возникла проблема с дубликатами в таблице `product_id` заменил дубликаты используя следующий синтаксис 
+
 
 
   
