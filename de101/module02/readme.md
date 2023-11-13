@@ -45,7 +45,7 @@
 
 Заполняю созданные таблицы используя ранее загруженную таблицу [orders.sql](https://github.com/EsSanches/datalearn/blob/main/de101/module02/orders.sql)
 
-Во время заполнения возникла проблема с дубликатами в таблице `product_id` заменил дубликаты используя следующий синтаксис 
+Во время заполнения возникла проблема с дубликатами в таблице `product_id` заменил дубликаты используя следующий синтаксис [full_product_table_with_update_duplicates.sql](https://github.com/EsSanches/datalearn/blob/main/de101/module02/full_product_table_with_update_duplicates.sql)
 
 
 
