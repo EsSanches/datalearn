@@ -11,7 +11,8 @@
 2. Напишите запросы, чтобы ответить на вопросы из [Модуля 01](https://github.com/Data-Learn/data-engineering/tree/master/DE-101%20Modules/Module01/DE%20-%20101%20Lab%201.1#%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B0-%D0%B2-excel). Сохраните в вашем GitHub скрипт загрузки данных и создания таблиц.
 
 
-Скрипты для создания таблиц и загрузки данных
+
+1. Скрипты для создания таблиц и загрузки данных
 
 [1. orders.sql](https://github.com/EsSanches/datalearn/blob/main/de101/module02/orders.sql)
 
@@ -20,7 +21,7 @@
 [3. returns.sql](https://github.com/EsSanches/datalearn/blob/main/de101/module02/returns.sql)
 
 
-Запросы к созданным таблицам для ответа на вопросы из 1-го модуля
+2. Запросы к созданным таблицам для ответа на вопросы из 1-го модуля
 
 [overview_m_1.sql](https://github.com/EsSanches/datalearn/blob/main/de101/module02/overview_m_1.sql)
 
