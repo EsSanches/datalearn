@@ -56,6 +56,8 @@ WHERE country = 'United States' AND
 	city = 'Burlington' AND state = 'Vermont';
 ```
 
+Дальше осталось только заполнить [оставшиеся таблицы](https://github.com/EsSanches/datalearn/blob/main/de101/module02/add_in_table.sql) 
+
   
 
 ## Нарисовать графики в Google Sheets
