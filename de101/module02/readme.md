@@ -12,7 +12,7 @@
 
 
 
-1. Скрипты для создания таблиц и загрузки данных
+ 1. Скрипты для создания таблиц и загрузки данных
 
 [1. orders.sql](https://github.com/EsSanches/datalearn/blob/main/de101/module02/orders.sql)
 
