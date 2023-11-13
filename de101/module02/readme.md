@@ -12,7 +12,7 @@
 
 
 
-1. Скрипты для создания таблиц и загрузки данных
+Скрипты для создания таблиц и загрузки данных
 
 [1. orders.sql](https://github.com/EsSanches/datalearn/blob/main/de101/module02/orders.sql)
 
@@ -21,7 +21,7 @@
 [3. returns.sql](https://github.com/EsSanches/datalearn/blob/main/de101/module02/returns.sql)
 
 
-2. Запросы к созданным таблицам для ответа на вопросы из 1-го модуля
+Запросы к созданным таблицам для ответа на вопросы из 1-го модуля
 
 [overview_m_1.sql](https://github.com/EsSanches/datalearn/blob/main/de101/module02/overview_m_1.sql)
 
