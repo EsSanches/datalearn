@@ -60,6 +60,4 @@ WHERE country = 'United States' AND
 
   
 
-## Нарисовать графики в Google Sheets
 
-## Нарисовать графики в KlipFolio
