@@ -16,15 +16,15 @@
 С помощью команды ```Table.ReorderColumns(#"Измененный тип",{"Client ID", "Value", "Type"})``` помнять местами вторую и третью колонку или 
 нажать правой кнопкой мыши на название -> переместить -> левый.
 
-Переименовать таблицу "Table.RenameColumns(#"Переупорядоченные столбцы",{{"Value", "Client Type"}, {"Type", "Client Name"}})" так же из меню правой кнопкой переименовать.
+Переименовать таблицу ```Table.RenameColumns(#"Переупорядоченные столбцы",{{"Value", "Client Type"}, {"Type", "Client Name"}})``` так же из меню правой кнопкой переименовать.
 
-Командой "Table.ReplaceValue(#"Переименованные столбцы","Type","",Replacer.ReplaceText,{"Client Name"})" удалить "Type" во всем столбце, создать новый столбец с индексом "Table.AddIndexColumn(#"Замененное значение", "Индекс", 1, 1, Int64.Type)".
+Командой ```Table.ReplaceValue(#"Переименованные столбцы","Type","",Replacer.ReplaceText,{"Client Name"})``` удалить "Type" во всем столбце, создать новый столбец с индексом ```Table.AddIndexColumn(#"Замененное значение", "Индекс", 1, 1, Int64.Type)```.
 
-Объединить столбец "Client Name" и "Индекс" командой "Table.CombineColumns(Table.TransformColumnTypes(#"Добавлен индекс", {{"Индекс", type text}}, "ru-RU"),{"Client Name", "Индекс"},Combiner.CombineTextByDelimiter(" ", QuoteStyle.None),"Сведено")".
+Объединить столбец "Client Name" и "Индекс" командой ```Table.CombineColumns(Table.TransformColumnTypes(#"Добавлен индекс", {{"Индекс", type text}}, "ru-RU"),{"Client Name", "Индекс"},Combiner.CombineTextByDelimiter(" ", QuoteStyle.None),"Сведено")```.
 
-Переименовать сведенный столбец "Table.RenameColumns(#"Объединенные столбцы",{{"Сведено", "Client Name"}})".
+Переименовать сведенный столбец ```Table.RenameColumns(#"Объединенные столбцы",{{"Сведено", "Client Name"}})```.
 
-Поскольку знаем сколько нужно удалить ненужных строк используем запрос "Table.RemoveLastN(#"Переименованные столбцы1",21)".
+Поскольку знаем сколько нужно удалить ненужных строк используем запрос ```Table.RemoveLastN(#"Переименованные столбцы1",21)```.
 
 ![Image alt](https://github.com/EsSanches/datalearn/blob/main/de101/module03/delite.png)
 
