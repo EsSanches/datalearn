@@ -43,10 +43,21 @@
 
 ![Image alt](https://github.com/EsSanches/datalearn/blob/main/de101/module02/diagram.png)
 
+Заполняю созданные таблицы используя ранее загруженную таблицу [orders.sql](https://github.com/EsSanches/datalearn/blob/main/de101/module02/orders.sql)
 
+Во время заполнения возникла проблема с дубликатами в таблице `product` заменил дубликаты используя следующий синтаксис [full_product_table_with_update_duplicates.sql](https://github.com/EsSanches/datalearn/blob/main/de101/module02/full_product_table_with_update_duplicates.sql)
+
+Заменил в таблице `orders` колонка `postal_code` нулевое значение
+
+```
+UPDATE orders
+SET postal_code = '01234'
+WHERE country = 'United States' AND
+	city = 'Burlington' AND state = 'Vermont';
+```
+
+Дальше осталось только заполнить [оставшиеся таблицы](https://github.com/EsSanches/datalearn/blob/main/de101/module02/add_in_table.sql) 
 
   
 
-## Нарисовать графики в Google Sheets
 
-## Нарисовать графики в KlipFolio
