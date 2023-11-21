@@ -13,7 +13,7 @@
 ![Image alt](https://github.com/Data-Learn/data-engineering/blob/master/DE-101%20Modules/Module03/DE%20-%20101%20Lab%203.1/3_11_PowerBI/img/3_11_2.png)
 
 
-С помощью команды "Table.ReorderColumns(#"Измененный тип",{"Client ID", "Value", "Type"})" помнять местами вторую и третью колонку или 
+С помощью команды ```Table.ReorderColumns(#"Измененный тип",{"Client ID", "Value", "Type"})``` помнять местами вторую и третью колонку или 
 нажать правой кнопкой мыши на название -> переместить -> левый.
 
 Переименовать таблицу "Table.RenameColumns(#"Переупорядоченные столбцы",{{"Value", "Client Type"}, {"Type", "Client Name"}})" так же из меню правой кнопкой переименовать.
