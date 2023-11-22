@@ -65,8 +65,11 @@
 Оставляю в новом столбце только значения столбца "curs". Появились пустые значения, так как курсы валют выходят не на каждый день.
 Делаю заполнения вверх и вниз.
 
-![Image alt](https://github.com/EsSanches/datalearn/blob/main/de101/module03/%D0%A6%D0%91.png)
+![Image alt](https://github.com/EsSanches/datalearn/blob/main/de101/module03/%D1%81%D1%82%D0%BE%D0%BB%D0%B1%D0%B5%D1%86%20%D0%BA%D1%83%D1%80%D1%81.png)
 
 Дальше выделяю столбцы "Amount", "curs" и с помощью добавления столбца > стандартный, делю сумму на курс.
 
+Создался новый столбец с суммой в евро.
+
+![Image alt](https://github.com/EsSanches/datalearn/blob/main/de101/module03/%D1%81%D1%82%D0%BE%D0%BB%D0%B1%D0%B5%D1%86%20%D0%B5%D0%B2%D1%80%D0%BE.png)
 
