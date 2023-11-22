@@ -32,4 +32,16 @@
 
 ![Image alt](https://github.com/EsSanches/datalearn/blob/main/de101/module03/%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5_1.png)
 
+## Задание 2
 
+> Создать меру, которая позволит сравнивать темпы прироста продаж с периодом -7 и -14 дней от текущей даты
+
+Создаю новую таблицу календарь ```Calendar_2 = CALENDARAUTO()```, новый столбец месяц ```Month = MONTH('Calendar_2'[Date])```,
+год ```year = YEAR('Calendar_2'[Date])```, день ```day = day('Calendar_2'[Date])```.
+
+Создаем связь между "Fact" и "Calendar_2" по столбцам "Data".
+
+Мера сдвигающая дату на -7 дней ```7 day amount = CALCULATE(sumx('Fact','Fact'[Amount]), DATEADD('Calendar_2'[Date],-7,DAY))```
+и мера сдвигающая дату на -14 дней ```14 day amount = CALCULATE(sumx('Fact','Fact'[Amount]), DATEADD('Calendar_2'[Date],-14,DAY))```
+
+Создаем меру прироста ```Temp rise = DIVIDE(SUMX('Fact','Fact'[Amount]), 'Fact'[14 day amount], "")```.
