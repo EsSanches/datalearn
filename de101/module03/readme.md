@@ -58,3 +58,15 @@
 
 ![Image alt](https://github.com/EsSanches/datalearn/blob/main/de101/module03/%D1%82%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D0%B0%20%D0%B5%D0%B2%D1%80%D0%BE.png)
 
+Теперь нужно объеденить таблицу с курсом с таблицей с продажами. Для этого объединяю их в новый запрос, Объединяю по столбцам "Data".
+
+![Image alt](https://github.com/EsSanches/datalearn/blob/main/de101/module03/%D0%9E%D0%B1%D1%8A%D0%B5%D0%B4%D0%B8%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5%20%D1%82%D0%B0%D0%B1%D0%BB%D0%B8%D1%86.png)
+
+Оставляю в новом столбце только значения столбца "curs". Появились пустые значения, так как курсы валют выходят не на каждый день.
+Делаю заполнения вверх и вниз.
+
+![Image alt](https://github.com/EsSanches/datalearn/blob/main/de101/module03/%D0%A6%D0%91.png)
+
+Дальше выделяю столбцы "Amount", "curs" и с помощью добавления столбца > стандартный, делю сумму на курс.
+
+
