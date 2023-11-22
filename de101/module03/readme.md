@@ -45,3 +45,16 @@
 и мера сдвигающая дату на -14 дней ```14 day amount = CALCULATE(sumx('Fact','Fact'[Amount]), DATEADD('Calendar_2'[Date],-14,DAY))```
 
 Создаем меру прироста ```Temp rise = DIVIDE(SUMX('Fact','Fact'[Amount]), 'Fact'[14 day amount], "")```.
+
+## Задание 3
+
+> Перевести все продажи в Евро по курсу ЦБ на момент выполнения задания
+
+Захожу на сайт центробанка, в таблице дата данные с 2019 по 2021, забиваю нужные даты, получаю список курса на день.
+
+![Image alt](https://github.com/EsSanches/datalearn/blob/main/de101/module03/%D0%A6%D0%91.png)
+
+Копирую ссылку, в Power BI захожу в создать источник > интернет вбиваю ссылку в URL-адрес загружаю таблицу.
+
+![Image alt](https://github.com/EsSanches/datalearn/blob/main/de101/module03/%D1%82%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D0%B0%20%D0%B5%D0%B2%D1%80%D0%BE.png)
+
