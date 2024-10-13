@@ -39,7 +39,7 @@
 
 > 3. Вам необходимо сделать `INSERT INTO SQL`, чтобы заполнить **Dimensions** таблицы и **Sales Fact** таблицу. Сначала мы заполняем **Dimensions** таблицы, где в качестве **id** мы генерим последовательность чисел, а зачем **Sales Fact** таблицу, в которую вставляем **id** из **Dimensions** таблиц.
 
-Дляя построения модели использовал [SqlDBM](https://sqldbm.com/), там же создал запросы на создание таблиц [create-new_tables.sql](https://github.com/EsSanches/datalearn/blob/main/de101/module02/create-new_tables.sql)
+Для построения модели использовал [SqlDBM](https://sqldbm.com/), там же создал запросы на создание таблиц [create-new_tables.sql](https://github.com/EsSanches/datalearn/blob/main/de101/module02/create-new_tables.sql)
 
 ![Image alt](https://github.com/EsSanches/datalearn/blob/main/de101/module02/diagram.png)
 
